@@ -1,4 +1,4 @@
 ### 本文用于总结更新一些前端知识，持续更新～
-有问题环境issues！
+有问题欢迎issues～
 ***
-1.[前端nginx知多少](https://github.com/dreamcarp/blog/issues/1)
+[前端nginx知多少](https://github.com/dreamcarp/blog/issues/1)
