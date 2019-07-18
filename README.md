@@ -2,3 +2,6 @@
 有问题欢迎issues～
 ***
 [前端nginx知多少](https://github.com/dreamcarp/blog/issues/1)
+
+#### 设计模式
+[构造器模式](https://github.com/dreamcarp/blog/issues/2)
