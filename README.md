@@ -5,4 +5,5 @@
 * [构造器模式](https://github.com/dreamcarp/blog/issues/2)  
 * [模块模式](https://github.com/dreamcarp/blog/issues/3)
 ***
-* [前端nginx知多少](https://github.com/dreamcarp/blog/issues/1)
+* [前端nginx知多少](https://github.com/dreamcarp/blog/issues/1)  
+* [前端异常捕获](https://github.com/dreamcarp/blog/issues/4)  
