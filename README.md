@@ -7,3 +7,4 @@
 ***
 * [前端nginx知多少](https://github.com/dreamcarp/blog/issues/1)  
 * [前端异常捕获](https://github.com/dreamcarp/blog/issues/4)  
+* [sentry系统监控前端异常配置](https://github.com/dreamcarp/blog/issues/5)
